@@ -30,7 +30,7 @@
 
                 <com.google.android.material.textfield.TextInputEditText
                     android:id="@+id/txt_browse"
-                    android:layout_width="match_parent"
+                    android:layout_width="260dp"
                     android:layout_height="wrap_content" />
 
             </com.google.android.material.textfield.TextInputLayout>
@@ -63,7 +63,7 @@
 
                 <com.google.android.material.textfield.TextInputEditText
                     android:id="@+id/txt_call"
-                    android:layout_width="match_parent"
+                    android:layout_width="260dp"
                     android:layout_height="wrap_content"
                     android:inputType="phone" />
 
@@ -95,7 +95,7 @@
 
                 <com.google.android.material.textfield.TextInputEditText
                     android:id="@+id/txt_contact"
-                    android:layout_width="match_parent"
+                    android:layout_width="260dp"
                     android:layout_height="wrap_content" />
 
             </com.google.android.material.textfield.TextInputLayout>
@@ -126,7 +126,7 @@
 
                 <com.google.android.material.textfield.TextInputEditText
                     android:id="@+id/txt_call_log"
-                    android:layout_width="match_parent"
+                    android:layout_width="260dp"
                     android:layout_height="wrap_content" />
 
             </com.google.android.material.textfield.TextInputLayout>
@@ -157,7 +157,7 @@
 
                 <com.google.android.material.textfield.TextInputEditText
                     android:id="@+id/txt_gallery"
-                    android:layout_width="match_parent"
+                    android:layout_width="260dp"
                     android:layout_height="wrap_content" />
 
             </com.google.android.material.textfield.TextInputLayout>
@@ -187,7 +187,7 @@
                 app:startIconDrawable="@drawable/ic_baseline_photo_camera_24">
 
                 <com.google.android.material.textfield.TextInputEditText
-                    android:layout_width="match_parent"
+                    android:layout_width="260dp"
                     android:layout_height="wrap_content" />
 
             </com.google.android.material.textfield.TextInputLayout>
@@ -217,7 +217,7 @@
                 app:startIconDrawable="@drawable/ic_baseline_alarm_24">
 
                 <com.google.android.material.textfield.TextInputEditText
-                    android:layout_width="match_parent"
+                    android:layout_width="260dp"
                     android:id="@+id/txt_alarm"
                     android:layout_height="wrap_content" />
 
